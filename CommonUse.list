@@ -1,0 +1,18 @@
+# NAME: CommonUse
+# AUTHOR: KYSauber
+# REPO: https://github.com/KYSauber/rules_scripts_self
+# UPDATED: 2026-08-27 11:00:03
+# DOMAIN: 
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 
+# USER-AGENT: 0
+# TOTAL: 
+# Podcast
+DOMAIN,aod-pod-uk-live.akamaized.net
+DOMAIN,bbc.pdn.tritondigital.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+#Others
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN,ndcdyn.interactivebrokers.com
