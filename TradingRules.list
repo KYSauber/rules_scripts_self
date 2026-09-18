@@ -16,6 +16,10 @@ DOMAIN,ndcdyn.interactivebrokers.com
 DOMAIN,api.ibkr.com
 DOMAIN-KEYWORD,ibllc.com
 
+#HSBC
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN,mobile.eum-appdynamics.com
+
 #CharlesSchwab
 DOMAIN-SUFFIX,schwab.com
 
