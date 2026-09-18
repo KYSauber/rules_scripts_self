@@ -8,22 +8,22 @@
 # USER-AGENT: 
 # TOTAL: 
 
-#Information
+# Information
 DOMAIN-SUFFIX,tradingview.com
 
-#IBKR
+# IBKR
 DOMAIN,ndcdyn.interactivebrokers.com
 DOMAIN,api.ibkr.com
 DOMAIN-KEYWORD,ibllc.com
 
-#HSBC
+# HSBC
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN,mobile.eum-appdynamics.com
 
-#CharlesSchwab
-#DOMAIN-SUFFIX,schwab.com
+# CharlesSchwab
+# DOMAIN-SUFFIX,schwab.com
 
-#FUTU
-#DOMAIN-SUFFIX,collect.futunn.com
+# FUTU
+# DOMAIN-SUFFIX,collect.futunn.com
 
 
