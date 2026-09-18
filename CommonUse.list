@@ -1,10 +1,10 @@
 # NAME: CommonUse
 # AUTHOR: KYSauber
 # REPO: https://github.com/KYSauber/rules_scripts_self
-# UPDATED: 2026-08-27 11:00:03
-# DOMAIN: 
+# UPDATED: 2026-09-19 03:04:03
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 
+# DOMAIN-SUFFIX: 3
 # USER-AGENT: 0
 # TOTAL: 
 # Podcast
@@ -14,5 +14,3 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 #Others
 DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN,ndcdyn.interactivebrokers.com
