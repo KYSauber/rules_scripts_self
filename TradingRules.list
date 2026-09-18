@@ -1,0 +1,25 @@
+# NAME: TradingRules
+# AUTHOR: KYSauber
+# REPO: https://github.com/KYSauber/rules_scripts_self
+# UPDATED: 2026-09-19 03:21:10
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# USER-AGENT: 
+# TOTAL: 
+
+#Information
+DOMAIN-SUFFIX,tradingview.com
+
+#IBKR
+DOMAIN,ndcdyn.interactivebrokers.com
+DOMAIN,api.ibkr.com
+DOMAIN-KEYWORD,ibllc.com
+
+#CharlesSchwab
+DOMAIN-SUFFIX,schwab.com
+
+#FUTU
+#DOMAIN-SUFFIX,collect.futunn.com
+
+
