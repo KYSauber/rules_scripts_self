@@ -1,0 +1,18 @@
+# NAME: AppleAI
+# AUTHOR: KYSauber
+# REPO: https://github.com/KYSauber/rules_scripts_self
+# UPDATED: 2026-09-26 02:54:03
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 8
+# USER-AGENT: 0
+# TOTAL: 8
+
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
