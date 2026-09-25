@@ -20,6 +20,10 @@ DOMAIN-KEYWORD,ibllc.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN,mobile.eum-appdynamics.com
 
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+
 # CharlesSchwab
 # DOMAIN-SUFFIX,schwab.com
 
