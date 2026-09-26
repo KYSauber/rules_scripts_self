@@ -54,6 +54,8 @@ DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN,api.mixpanel.com
 DOMAIN-SUFFIX,wise.com
 
+# Polymarket
+DOMAIN-SUFFIX,polymarket.com
 
 # ZA Bank
 #DOMAIN-SUFFIX,za.group
