@@ -4,3 +4,4 @@
 #### 规则链接：
 https://raw.githubusercontent.com/KYSauber/rules_scripts_self/main/ApppleAI.list
 https://raw.githubusercontent.com/KYSauber/rules_scripts_self/main/TradingRules.list
+https://raw.githubusercontent.com/KYSauber/rules_scripts_self/main/Krak.list
