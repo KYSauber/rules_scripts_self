@@ -1,0 +1,25 @@
+# NAME: Krak
+# AUTHOR: KYSauber
+# REPO: https://github.com/KYSauber/rules_scripts_self
+# UPDATED: 2026-09-28 21:49:00
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# USER-AGENT: 
+# TOTAL: 
+
+# Kraken
+DOMAIN-KEYWORD,kraken
+DOMAIN-KEYWORD,krak
+# Not Sure
+DOMAIN-KEYWORD,zendesk
+DOMAIN-KEYWORD,braze
+DOMAIN-KEYWORD,launchdarkly
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,segment
+DOMAIN-KEYWORD,nsureapi
+DOMAIN-KEYWORD,sardine
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,expo
+
